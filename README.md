@@ -1,7 +1,3 @@
-Thank you for sharing Jesse's input. I'll update the README to reflect these requirements:
-
----
-
 # iForgot - ID Card & Document Expiry Date Manager
 
 ![iForgot Logo](logo_link_here)
@@ -76,12 +72,11 @@ Built with **FlutterFlow** and powered by **Firebase**, iForgot ensures a seamle
 
 ## Contribute
 
-We welcome contributions! If you find any issues or have suggestions, please [open an issue](github_issue_link_here) or submit a pull request.
+We welcome contributions strickly to added collaborators! If you find any issues or have suggestions, please [open an issue](github_issue_link_here) or submit a pull request.
 
 ## License
 
-*License details will go here.*
+*Full Restricted License. Cannot be redesigned without owners notice*
 
 ---
 
-This updated README now includes the basic functions and list of card types as provided by Jesse. As the project progresses, we can continue to refine and expand upon this document.
